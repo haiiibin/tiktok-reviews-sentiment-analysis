@@ -24,3 +24,7 @@ Publicly available TikTok Google Play reviews dataset (307K rows). Raw data not 
 ## Tech Stack
 
 Python (pandas, TextBlob, langdetect, emoji), R (tidyverse, plm fixed effects, lmtest, stargazer, wordcloud)
+
+---
+
+_Part of my portfolio: [haiiibin.github.io](https://haiiibin.github.io)_
